@@ -1,0 +1,26 @@
+﻿company,title,time,summary,sourceURL,label,source,credible,overlapCount
+Anthropic,在 Claude App 中测试语音模式,2025-04-15,含三种语音且支持文件上传。,https://www.aicpb.com/news/2025-04-15,"Claude App, 语音模式, 文件上传",https://www.aicpb.com/news,no,1
+CADCrafter,能将单张图像转可编辑 CAD 文件,2025-04-15,解决 AI 3D 模型编辑痛点。,https://www.aicpb.com/news/2025-04-15,"CADCrafter, 3D 模型编辑, 可编辑",https://www.aicpb.com/news,no,1
+DeepSeek,DeepSeek 宣布将开源推理引擎,2025-04-15,与现有开源项目合作提取可复用组件。,https://www.aicpb.com/news/2025-04-15,"推理引擎, 开源, 组件提取",https://www.aicpb.com/news,no,1
+MiniMax,稀宇科技推 MCP Server,2025-04-15,支持文本输入，实现多种生成能力。,https://www.aicpb.com/news/2025-04-15,"MCP Server, 文本生成, 多种能力",https://www.aicpb.com/news,no,1
+OpenAI,OpenAI 以 API 形式推出 GPT-4.1 模型家族,2025-04-15,全面超越 GPT-4o。,https://www.aicpb.com/news/2025-04-15,"GPT-4.1, 语言模型, API",https://www.aicpb.com/news,no,2
+OpenAI,OpenAI 推出 GPT-4.1 系列：1M token 支持与 26% 性价比提升,2025-04-15,GPT-4.1 系列模型支持1M token，上下文处理能力提升，编程能力达到 DeepSeek V3 水平，性价比提高 26%。,https://sanhua.himrr.com/news/0b2fb3f9-2c46-45fd-8386-1d29cb49d48d,"GPT-4.1,GPT-4.1 mini,GPT-4.1 nano",https://sanhua.himrr.com/daily-news/feed,no,2
+Slingshot AI,开发 AI 心理咨询应用 Ash,2025-04-15,通过数据训练实现差异化。,https://www.aicpb.com/news/2025-04-15,"AI 心理咨询, Ash, 数据训练",https://www.aicpb.com/news,no,1
+云鲸智能,云鲸再获1亿美金融资，腾讯、北京机器人基金领投，重押具身智能，迈向Pre-IPO,2025-04-14,云鲸智能完成1亿美金融资，资金将用于具身智能产品研发及全球市场扩张，已启动Pre-IPO轮融资。,https://36kr.com/p/3245800572960390,"云鲸智能,家庭清洁服务机器人,融资",https://ai-bot.cn/daily-ai-news/,no,1
+嘀嗒出行,公布大模型用于客服进展,2025-04-15,智能工单准确率达 98%，将换基座模型。,https://www.aicpb.com/news/2025-04-15,"大模型, 客服, 准确率",https://www.aicpb.com/news,no,1
+字节跳动,字节跳动最新思考模型，Seed-Thinking-v1.5技术细节公开,2025-04-14,字节跳动发布Seed-Thinking-v1.5智能推理模型，采用200B参数、20B激活参数的MoE架构，推理成本低，表现接近业界第一梯队水平。,https://mp.weixin.qq.com/s/WJc9b2cB-Io0YNrBQvfYBA,"Seed-Thinking-v1.5,智能推理模型,200B参数",https://ai-bot.cn/daily-ai-news/,no,1
+字节跳动,字节 Seaweed：7B 模型实现 20 秒 2K 视频生成,2025-04-15,Seaweed 是一款仅 7B 参数的视频生成模型，支持文生视频、图生视频，能生成 20 秒时长的单镜头视频，画质可达 2K。,https://sanhua.himrr.com/news/d2af5ea3-11e2-4287-a097-3666b8b5c454,"Seaweed,视频生成,音频生成",https://sanhua.himrr.com/daily-news/feed,no,1
+字节跳动,字节 UNO 开源：多场景图片主体一致性模型,2025-04-14,UNO 是字节跳动开源的图片主体一致性模型，支持多图参考、风格化角色生成等功能。,https://sanhua.himrr.com/news/4465834b-fe12-4e83-aaef-ebee8c9a0cbc,"UNO,图片生成,开源",https://sanhua.himrr.com/daily-news/feed,no,1
+字节跳动,开放Seed - Thinking - v1.5接口,2025-04-17,技术优且推理成本降 50%。,https://www.aicpb.com/news/2025-04-17,"Seed - Thinking - v1.5, 接口, 成本降低",https://www.aicpb.com/news,no,1
+小鹏汽车,何小鹏宣布公司已训练独特 AI 模型,2025-04-15,将向多领域赋能。,https://www.aicpb.com/news/2025-04-15,"独特 AI 模型, 多领域, 赋能",https://www.aicpb.com/news,no,1
+快手,快手可灵 AI 2.0 今日 14:00 即将发布,2025-04-15,快手可灵 AI 2.0 版本发布会将于今天下午 14:00 正式发布。,https://sanhua.himrr.com/news/4ed7b4a0-7646-4ecd-ab52-d04928926cb3,"可灵 AI 2.0,产品发布,无",https://sanhua.himrr.com/daily-news/feed,no,1
+无公司,PixelFlow：像素空间图像生成方案,2025-04-14,PixelFlow 是一个开源生图模型，直接操作原始像素空间，开辟了图像生成新方向。,https://sanhua.himrr.com/news/d8dd0839-943c-4f26-82b9-a3f30724bb69,"PixelFlow,图像生成,开源",https://sanhua.himrr.com/daily-news/feed,no,1
+无公司,WordPress 发布智能 AI 建站工具,2025-04-14,WordPress 发布智能 AI 建站工具，提供 30 次免费试用。,https://sanhua.himrr.com/news/3f86e698-3fef-4083-92cb-5367edaf5d3d,"AI 建站工具,WordPress,免费试用",https://sanhua.himrr.com/daily-news/feed,no,1
+昆仑万维,昆仑万维推出Skywork-OR1系列模型，同规模下性能超越阿里QwQ-32B,2025-04-14,昆仑万维推出Skywork-OR1系列模型，聚焦数学和代码推理能力，性能超越阿里QwQ-32B，全面开源。,https://mp.weixin.qq.com/s/tEIaqE07Z5j_tAl31ElK8w,"Skywork-OR1,数学推理模型,开源",https://ai-bot.cn/daily-ai-news/,no,1
+月之暗面,开源视觉语言模型Kimi - VL及长思考版,2025-04-15,多项基准超越 GPT - 4o。,https://www.aicpb.com/news/2025-04-15,"Kimi - VL, 视觉语言模型, 开源",https://www.aicpb.com/news,no,1
+腾讯云,宣布大模型知识引擎升级,2025-04-15,支持 MCP 协议，可调用精选或自定义插件。,https://www.aicpb.com/news/2025-04-15,"大模型知识引擎, MCP 协议, 插件",https://www.aicpb.com/news,no,1
+英伟达,将在美国生产 5000 亿美元 AI 设备,2025-04-15,满足芯片需求强化供应链。,https://www.aicpb.com/news/2025-04-15,"AI 设备, 供应链, 芯片需求",https://www.aicpb.com/news,no,1
+蚂蚁集团,推「百大 AI 名医」计划,2025-04-15,百位名医 AI 助手一年内上线，首批已在支付宝上线。,https://www.aicpb.com/news/2025-04-15,"百大 AI 名医, AI 助手, 支付宝",https://www.aicpb.com/news,no,1
+谷歌,谷歌发布开源 Agent SDK,2025-04-15,一站式支持智能体开发，简化构建流程。,https://www.aicpb.com/news/2025-04-15,"Agent SDK, 智能体开发, 开源",https://www.aicpb.com/news,no,1
+阿里巴巴,重新认识阿里：大踏步迈向 AI,2025-04-14,阿里巴巴在AI领域投入3800亿元，通义大模型位列全球第一梯队，未来三年将全面建设云和AI基础设施。,https://mp.weixin.qq.com/s/uNlSpOh4HsZqTUDZ8GUw6w,"通义大模型,AI基础设施,投资",https://ai-bot.cn/daily-ai-news/,no,1
+高德地图,推全球首个 AI 导航智能体,2025-04-15,实现智能出行与情感交互。,https://www.aicpb.com/news/2025-04-15,"AI 导航智能体, 智能出行, 情感交互",https://www.aicpb.com/news,no,1

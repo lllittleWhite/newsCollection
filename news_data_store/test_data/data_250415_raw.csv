@@ -1,0 +1,11 @@
+﻿company,title,time,summary,sourceURL,label,source,credible
+MiniMax,MiniMax MCP Server上线：多模态能力，一键触达,2025-04-15,MiniMax MCP Server正式上线，支持视频、图像、语音生成及声音克隆等多项多模态能力，兼容Claude D。,https://mp.weixin.qq.com/s/ZlCviVVkd-SNC_0Bb9n87g,"MiniMax MCP Server,多模态能力,声音克隆",https://ai-bot.cn/daily-ai-news/,no
+OpenAI,OpenAI 推出 GPT-4.1 系列：1M token 支持与 26% 性价比提升,2025-04-15,GPT-4.1 系列模型支持1M token，上下文处理能力提升，编程能力达到 DeepSeek V3 水平，性价比提高26%。,https://sanhua.himrr.com/news/0b2fb3f9-2c46-45fd-8386-1d29cb49d48d,"GPT-4.1,GPT-4.1 mini,GPT-4.1 nano",https://sanhua.himrr.com/daily-news/feed,no
+OpenAI,OpenAI发布GPT-4.1系列模型,2025-04-15,GPT-4.1系列模型在编码、指令遵循和长文本处理能力上大幅提升，支持高达100万tokens的上下文窗口，知识截止日期更新至2024年6月。,https://ai-bot.cn/openai-gpt-4-1/,"GPT-4.1,GPT模型,长文本处理",https://ai-bot.cn/daily-ai-news/,no
+字节跳动,字节 Seaweed：7B 模型实现 20 秒 2K 视频生成,2025-04-15,Seaweed 是一款7B参数的视频生成模型，支持文生视频、图生视频，能生成20秒时长的2K画质视频及配套音频。,https://sanhua.himrr.com/news/d2af5ea3-11e2-4287-a097-3666b8b5c454,"Seaweed,视频生成,音频生成",https://sanhua.himrr.com/daily-news/feed,no
+字节跳动,字节 UNO 开源：多场景图片主体一致性模型,2025-04-14,UNO 是字节跳动开源的图片主体一致性模型，支持多图参考、风格化角色生成等功能。,https://sanhua.himrr.com/news/4465834b-fe12-4e83-aaef-ebee8c9a0cbc,"UNO,图片生成,开源",https://sanhua.himrr.com/daily-news/feed,no
+快手,快手可灵 AI 2.0 今日 14:00 即将发布,2025-04-15,快手可灵 AI 2.0 版本发布会将于2025年4月15日下午14:00正式发布。,https://sanhua.himrr.com/news/4ed7b4a0-7646-4ecd-ab52-d04928926cb3,"可灵 AI 2.0,产品发布,无特征",https://sanhua.himrr.com/daily-news/feed,no
+智谱,智谱启用全新全球域名“z.ai”，开源高性能GLM模型系列,2025-04-15,智谱启用新域名z.ai，整合32B基座、推理、沉思三类模型，开源32B/9B系列GLM模型，提供API服务，部分版本免费。,https://mp.weixin.qq.com/s/pyeqH8jGvH_dVPmekOQ1VQ,"GLM模型,开源模型,API服务",https://ai-bot.cn/daily-ai-news/,no
+阿里巴巴,魔搭上线最大MCP中文社区，独家首发支付宝、MiniMax等MCP,2025-04-15,阿里云旗下的魔搭推出全新MCP广场，上架千余款热门MCP服务，支付宝MCP服务聚焦AI智能体支付场景，MiniMax MCP封装多模态能力。,https://mp.weixin.qq.com/s/MTzth48-WEFvO3yA5XkMew,"MCP,支付场景,多模态能力",https://ai-bot.cn/daily-ai-news/,no
+,PixelFlow：像素空间图像生成方案,2025-04-14,PixelFlow 是一个开源生图模型，直接操作原始像素空间，开辟了图像生成新方向。,https://sanhua.himrr.com/news/d8dd0839-943c-4f26-82b9-a3f30724bb69,"PixelFlow,图像生成,开源",https://sanhua.himrr.com/daily-news/feed,no
+,WordPress 发布智能 AI 建站工具,2025-04-14,WordPress 发布智能 AI 建站工具，提供30次免费试用。,https://sanhua.himrr.com/news/3f86e698-3fef-4083-92cb-5367edaf5d3d,"智能 AI 建站工具,建站,无特征",https://sanhua.himrr.com/daily-news/feed,no

@@ -1,0 +1,19 @@
+﻿company,title,time,summary,sourceURL,label,source,credible,overlapCount
+Build-with-Bombs,在 Minecraft 中通过扩散模型生成建筑,2025-04-07,使用扩散模型生成外观统一但内饰各异的建筑，效果酷炫。,https://sanhua.himrr.com/news/ddb19686-6421-4bbe-bbdd-e0e4b30e013c,"Build-with-Bombs, Minecraft, 扩散模型",https://sanhua.himrr.com/daily-news/feed,yes,1
+Meta,Meta 发布 LLaMA 4 Scout（哨兵）和 Maverick（独行侠）,2025-04-07,LLaMA 4 系列大语言模型包含 Scout 和 Maverick，支持多模态输入，性能超越 GPT-4.5。,https://sanhua.himrr.com/news/dee7290b-f28b-4a9d-a794-06eea2bdfac1,"LLaMA 4, 多模态, 大语言模型",https://sanhua.himrr.com/daily-news/feed,yes,1
+Meta,计划投10亿美元建数据中心,2025-04-07,Meta计划投10亿美元在威斯康星州建数据中心，助力人工智能发展。,无来源,"Meta, 数据中心, 人工智能发展",https://www.aicpb.com/news,no,1
+Midjourney,Midjourney V7 alpha 发布：草稿模式成本减半速度提升 10 倍,2025-04-07,V7 图像模型的草稿模式运算成本减半，生成速度提升 10 倍，未来两个月将每周更新。,https://sanhua.himrr.com/news/c74d7c62-6d36-4e47-8853-43e0f7d655c2,"Midjourney V7, 图像生成, 草稿模式",https://sanhua.himrr.com/daily-news/feed,yes,1
+OpenAI,马斯克起诉OpenAI案将于2026年春启动,2025-04-07,马斯克起诉OpenAI案将于2026年春启动陪审团审判，聚焦营利化争议。,无来源,"OpenAI, 法律诉讼, 营利化争议",https://www.aicpb.com/news,no,1
+Remade AI,Remade AI 发布 WAN2.1 愚人节特效 LoRA,2025-04-03,WAN2.1 视频模型包含多种夸张表情特效，如 Jumpscare、生气等。,https://sanhua.himrr.com/news/c6d1130d-d04d-4234-a95f-2eb173946617,"WAN2.1, 视频模型, 特效",https://sanhua.himrr.com/daily-news/feed,yes,1
+The Browser Company,推AI浏览器Dia,2025-04-07,The Browser Company推AI浏览器Dia，采用“极简AI入口”，整合GPT-4o与Gemini Flash 2.0。,无来源,"Dia, AI浏览器, GPT-4o",https://www.aicpb.com/news,no,1
+上海人工智能实验室,提出图文交错生成评测基准OpenING,2025-04-07,上海人工智能实验室提出图文交错生成评测基准OpenING，为多模态模型研发提供指导。,无来源,"OpenING, 多模态模型, 评测基准",https://www.aicpb.com/news,no,1
+亚马逊,Kindle推出AI“回顾”功能,2025-04-07,亚马逊为Kindle推出AI“回顾”功能，助力读者回顾书籍情节与角色发展。,无来源,"Kindle, AI回顾功能, 书籍情节",https://www.aicpb.com/news,no,1
+字节跳动,字节即梦 3.0 图像模型灰度测试：直出商用级海报,2025-04-03,字节跳动的即梦 3.0 模型正在灰度测试，生成汉字效果表现出色，能直出商用级海报。,https://sanhua.himrr.com/news/7d8814a7-774a-4d16-99b5-d0db7509dfa8,"即梦 3.0, 图像生成, 商用级",https://sanhua.himrr.com/daily-news/feed,yes,1
+广西高速,采用“路网先知”AI大模型治拥堵,2025-04-07,广西高速采用“路网先知”AI大模型治拥堵，清明节期间用无人机疏导交通。,无来源,"路网先知, AI大模型, 交通疏导",https://www.aicpb.com/news,no,1
+微软,首席技术官称2030年95%编程代码将由AI生成,2025-04-07,微软首席技术官称2030年95%编程代码将由AI生成，工程师角色将转变。,无来源,"微软, 编程代码, AI生成",https://www.aicpb.com/news,no,1
+微软,微软推出 AI 驱动的 Bing Copilot Search,2025-04-07,Bing Copilot Search 融合传统搜索与生成式 AI 技术，已在全球大部分地区上线。,https://sanhua.himrr.com/news/9bfef852-c37f-4886-9f84-9e4c44bf5784,"Bing Copilot Search, 生成式搜索, AI驱动",https://sanhua.himrr.com/daily-news/feed,yes,1
+微软,Copilot与MSN整合功能发布,2025-04-07,微软推Copilot与MSN整合功能，用户可浏览定制化新闻并体验新功能。,无来源,"Copilot, 整合功能, 定制化新闻",https://www.aicpb.com/news,no,1
+微软,发布基于Muse AI模型的《Quake II》技术演示,2025-04-07,微软发布基于Muse AI模型的《Quake II》技术演示DEMO游戏。,无来源,"Muse, 技术演示, 游戏",https://www.aicpb.com/news,no,1
+无时间,DeepSite：基于 DeepSeek 的开源 AI 前端代码生成工具,2025-04-03,DeepSite 是一个完全开源的 AI 编程工具，旨在辅助前端代码生成。,https://sanhua.himrr.com/news/848257cb-cb0c-4cc8-938a-022008907dde,"DeepSite, 开源, AI编程工具",https://sanhua.himrr.com/daily-news/feed,yes,1
+腾讯,元宝升级收藏夹功能,2025-04-07,腾讯元宝升级收藏夹功能，支持文字、图片等多格式及跨端无缝切换。,无来源,"元宝, 收藏夹功能, 多格式支持",https://www.aicpb.com/news,no,1
+谷歌,Gemini更新API文档支持MCP协议,2025-04-07,Gemini更新API文档，宣布支持MCP协议，仅用4天时间完成部署。,无来源,"Gemini, API更新, MCP协议",https://www.aicpb.com/news,no,1
