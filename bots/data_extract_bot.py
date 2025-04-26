@@ -7,8 +7,8 @@ def llmReturn_process(llm_return: str) -> str:
     """
     return llm_return
 
-def bot_extract_news_data(web_content: str, api_key: str = "sk-rdc-botplatform-2024020473",
-                      base_url: str = "https://chat.inhyperloop.com/v1") -> str:
+def bot_extract_news_data(web_content: str, api_key: str = "",
+                      base_url: str = "") -> str:
     """
     使用LangChain实现的新闻数据抽取函数。
 

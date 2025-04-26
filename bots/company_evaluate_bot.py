@@ -12,7 +12,7 @@ def llmReturn_process(llm_return: str) -> str:
     """
     return llm_return
 
-def bot_evaluate_company(content: str, api_key: str = "sk-rdc-botplatform-2024020473", base_url: str = "https://chat.inhyperloop.com/v1") -> str:
+def bot_evaluate_company(content: str, api_key: str = "", base_url: str = "") -> str:
     """
     公司评级打分函数
     
