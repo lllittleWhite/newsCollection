@@ -2,7 +2,7 @@
 
 ## 1 介绍
 
-程序主要由三个部分组成，数据采集（data_collection）、新闻处理（news_process）、新闻发布（data_publish）组成。还有两个额外的工具包，分别是 写好提示词的llm（bots）、用来保存csv文件的程序（utils/save_to_csv.py）。待完成部分新闻排序（news_rerank）。
+程序主要由三个部分组成，数据采集（data_collection）、新闻处理（news_process）、新闻发布（data_publish）组成。还有两个额外的工具包，分别是 写好提示词的llm（bots）、用来保存csv文件的程序（utils/save_to_csv.py）。新闻排序（news_rerank）。
 
 ## 2 采集流程
 
@@ -42,7 +42,7 @@ OpenAI,OpenAI宣布ChatGPT新功能，新增长期记忆功能,2025-04-11,OpenAI
 
 ### 3.1 数据采集
 
-数据采集由多个不同类型的采集器组成，分别用来采集不同来源渠道的信息。http_collector用来采集无严格反爬的网页和rss信息源信息；email_collector用来采集邮件订阅的新闻信息（待完善）；spider_collector用来采集反爬策略较为严格的网页信息（待完善）。
+数据采集由多个不同类型的采集器组成，分别用来采集不同来源渠道的信息。http_collector用来采集无严格反爬的网页和rss信息源信息；email_collector用来采集邮件订阅的新闻信息；spider_collector用来采集反爬策略较为严格的网页信息。
 
 data_collection/aggregation_collector.py是一个整合后的抽象层，可以根据输入自动选择相应的采集器。
 
@@ -57,9 +57,9 @@ data_collection/aggregation_collector.py是一个整合后的抽象层，可以�
 
 ### 3.4 bots
 
-bots中有三个写好提示词的bot，bots/data_extract_bot.py 用来从采集到的原始新闻数据中提取结构化的新闻数据；bots/repNews_delet_bot.py 用来删除重复的新闻数据，并统计重复个数；bots/company_evaluate_bot.py给新闻涉及的公司进行评分，以便后续排序（待完善）。
+bots中有三个写好提示词的bot，bots/data_extract_bot.py 用来从采集到的原始新闻数据中提取结构化的新闻数据；bots/repNews_delet_bot.py 用来删除重复的新闻数据，并统计重复个数；bots/company_evaluate_bot.py给新闻涉及的公司进行评分，以便后续排序。
 
-## 4 未完成的新闻排序设想
+## 4 新闻排序
 
 设计多个评价维度，对新闻重要程度进行评价，最后得到一个分数，根据分数对新闻进行排序。
 
@@ -70,9 +70,3 @@ bots中有三个写好提示词的bot，bots/data_extract_bot.py 用来从采集
 
 权重设计：
     设计权重来综合所有评价维度对新闻进行评分排序
-
-## 5 可能存在的问题
-
-    （1）llm输出的json数据有可能不是指定的格式，导致程序无法解析导致报错
-    （2）输入的数据超出llm的上下文限制导致报错，目前仅截取新闻的前五千字输入给llm
-    （3）token.json过期导致无法上传至google sheet，将token.json删除即可，程序会自动打开浏览器重新手动获取授权
